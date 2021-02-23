@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
+* Creado por el increible Platzi Team
 
 Y como un recordatorio: Este archivo readme.md es un chiste
