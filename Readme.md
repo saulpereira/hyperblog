@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Creado por el increible Platzi Team
-
+* Incluye ejemplos en Windows, Linux y Mac
+* 
 Y como un recordatorio: Este archivo readme.md es un chiste
